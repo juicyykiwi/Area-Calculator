@@ -1,5 +1,7 @@
 from math import pi, sqrt
 
+# Name: Ray-Ann Pappas
+# Date: 8/1/22
 
 class Calculator:
 	shape = "0"		# Every calculator object must have a shape variable, declared outside of all methods
